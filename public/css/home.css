@@ -1,0 +1,57 @@
+/* Web */
+#heroTitle {
+    font-size: 60px;
+}
+
+#heroDesc {
+    font-size: 25px;
+}
+
+#fontRusso {
+    font-family: 'Russo One';
+}
+
+#gradientDiv {
+    background: linear-gradient(to right, #0A4A94, #227CAE);
+}
+
+.zoom {
+    transition: transform .2s; /* Animation */
+  }
+
+.custom-hover {
+    background-color: #00008B; /* Dark Blue */
+    border-color: #00008B; /* Dark Blue */
+}
+  
+.zoom:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.link-unstyled, .link-unstyled:link, .link-unstyled:hover {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+/* Tablet */
+@media screen and (max-width: 600px) {
+    #heroTitle {
+        font-size: 50px;
+    }
+
+    #heroDesc {
+        font-size: 15px;
+    }
+
+    #ourProductOverview {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+/* Handphone */
+@media screen and (max-width: 400px) {
+    #heroTitle {
+        font-size: 40px;
+    }
+}

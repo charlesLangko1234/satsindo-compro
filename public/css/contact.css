@@ -1,0 +1,23 @@
+/* Tablet */
+@media screen and (max-width: 600px) {
+
+    #discuss {
+        font-size: 50px;
+    }
+}
+
+/* Handphone */
+@media screen and (max-width: 400px) {
+    #discuss2 {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #discuss {
+        display: none;
+    }
+
+    #discuss p {
+        display: none;
+    }
+}

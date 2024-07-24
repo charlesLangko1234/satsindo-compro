@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&family=Oswald:wght@600&family=Poppins:ital,wght@1,600&family=Russo+One&display=swap');
+
+.nav-link.active {
+  color: white;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 1000px) {
+    #contact {
+      display: none;
+    }
+}

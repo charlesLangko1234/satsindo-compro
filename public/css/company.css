@@ -1,0 +1,42 @@
+/* Tablet */
+#imgAbout {
+    width: 600px;
+    height: 300px;
+}
+
+.container .allText {
+    font-size: 15px;
+}
+
+@media screen and (max-width: 1024px) {
+    #imgAbout {
+        width: 500px;
+        height: 200px;
+    }
+
+    #gradientDiv .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container .allText {
+        font-size: 10px;
+    }
+}
+
+/* Handphone */
+@media screen and (max-width: 400px) {
+    #imgAbout {
+        width: 150px;
+        height: 150px;
+    }
+
+    .container .allText {
+        font-size: 7px;
+    }
+
+    #gradientDiv .container {
+        display: flex;
+        flex-direction: column;
+    }
+}
