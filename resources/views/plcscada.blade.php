@@ -12,7 +12,7 @@
             <div class="d-flex justify-content-start align-items-center h-100">
                 <div class="text-white text-start" id="fontRusso">
                     <h1 class="mb-3" id="heroTitle">PLC-HMI-DCS-SCADA</h1>
-                    <h4>We provide solution for PLC controls processes, DCS coordinates systems, HMI facilitates interaction, and SCADA monitors industrial processes</h4>
+                    <h4 id="heroDesc">We provide solution for PLC controls processes, DCS coordinates systems, HMI facilitates interaction, and SCADA monitors industrial processes</h4>
                     <a data-mdb-ripple-init class="btn btn-primary btn-lg text-white mt-3" href="/#contactUSViaEmail" role="button">Email Us</a>
                 </div>
             </div>

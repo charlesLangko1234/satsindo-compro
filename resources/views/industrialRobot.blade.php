@@ -12,7 +12,7 @@
             <div class="d-flex justify-content-start align-items-center h-100">
                 <div class="text-white text-start" id="fontRusso">
                     <h1 class="mb-3" id="heroTitle">Robotic Solution</h1>
-                    <h4>We provide solution for industrial automation with robotic system to achieve the highest OEE, highest production volume and lowest waste. With these solution we can get the consistency 
+                    <h4 id="heroDesc">We provide solution for industrial automation with robotic system to achieve the highest OEE, highest production volume and lowest waste. With these solution we can get the consistency 
                       on your production process.</h4>
                     <a data-mdb-ripple-init class="btn btn-primary btn-lg text-white mt-3" href="/#contactUSViaEmail" role="button">Email Us</a>
                 </div>

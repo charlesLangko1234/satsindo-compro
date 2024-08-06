@@ -12,7 +12,7 @@
             <div class="d-flex justify-content-start align-items-center h-100">
                 <div class="text-white text-start" id="fontRusso">
                     <h1 class="mb-3" id="heroTitle">Smart Vision Solution</h1>
-                    <h4> Artificial Intelligent using computer vision to enhances productivity and management capability .</h4>
+                    <h4 id="heroDesc"> Artificial Intelligent using computer vision to enhances productivity and management capability .</h4>
                     <a data-mdb-ripple-init class="btn btn-primary btn-lg text-white mt-3" href="/#contactUSViaEmail" role="button">Email Us</a>
                 </div>
             </div>

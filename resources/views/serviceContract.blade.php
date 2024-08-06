@@ -12,7 +12,7 @@
             <div class="d-flex justify-content-start align-items-center h-100">
                 <div class="text-white text-start" id="fontRusso">
                     <h1 class="mb-3" id="heroTitle">Maintenance Service Contract</h1>
-                    <h4> Maintenance Service Contract</h4>
+                    <h4 id="heroDesc"> Maintenance Service Contract</h4>
                     <a data-mdb-ripple-init class="btn btn-primary btn-lg text-white mt-3" href="/#contactUSViaEmail" role="button">Email Us</a>
                 </div>
             </div>

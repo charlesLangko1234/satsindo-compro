@@ -12,7 +12,7 @@
             <div class="d-flex justify-content-start align-items-center h-100">
                 <div class="text-white text-start" id="fontRusso">
                     <h1 class="mb-3" id="heroTitle">Education Center</h1>
-                    <h4> This expert-led course, created to help you reach your career goals, will give you practical skills and individualized attention. Join us right away to reserve your place!</h4>
+                    <h4 id="heroDesc"> This expert-led course, created to help you reach your career goals, will give you practical skills and individualized attention. Join us right away to reserve your place!</h4>
                     <a data-mdb-ripple-init class="btn btn-primary btn-lg text-white mt-3" href="/#contactUSViaEmail" role="button">Email Us</a>
                 </div>
             </div>
