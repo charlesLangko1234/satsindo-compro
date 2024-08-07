@@ -36,7 +36,7 @@
                       <div class="row d-flex justify-content-center">
 
                         <div class="col-lg-4 col-md-12 mb-4">
-                          <div class="card zoom shadow" style="height:43rem">
+                          <div class="card zoom shadow" style="height:35rem">
                             <div class="bg-image ripple ripple-surface ripple-surface-light"
                               data-mdb-ripple-color="light">
                               <img src="img/product/fillingMachine.jpg"
@@ -50,7 +50,7 @@
                         </div>
 
                         <div class="col-lg-4 col-md-12 mb-4">
-                            <div class="card zoom shadow"  style="height:43rem">
+                            <div class="card zoom shadow"  style="height:35rem">
                                 <div class="bg-image ripple ripple-surface ripple-surface-light"
                                   data-mdb-ripple-color="light">
                                   <img src="img/product/melting.jpg"

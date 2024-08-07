@@ -30,7 +30,7 @@
             </div>
     
             <div class="col p-5" id="gradientDiv">
-                <div class="container d-flex justify-content-center">
+                <div class="container d-flex justify-content-between">
                     <div class="col">
                         <img id="imgAbout" src="img/about/imgAbout.jpg" alt="">
                     </div>

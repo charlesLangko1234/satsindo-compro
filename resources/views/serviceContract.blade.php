@@ -39,7 +39,7 @@
                             <div class="card zoom shadow" style="height:25rem">
                                 <div class="bg-image ripple ripple-surface ripple-surface-light"
                                 data-mdb-ripple-color="light">
-                                <img src="https://i.pinimg.com/564x/4a/a1/0b/4aa10b3bbf39b31a360d19de8bfbf5a1.jpg"
+                                <img src="img/product/TPM.jpg"
                                     class="w-100" />
                                 </div>
                                 <div class="card-body">
@@ -52,7 +52,7 @@
                                 <div class="card zoom shadow" style="height:25rem">
                                 <div class="bg-image ripple ripple-surface ripple-surface-light"
                                     data-mdb-ripple-color="light">
-                                    <img src="https://i.pinimg.com/564x/02/fa/80/02fa80cbdb0db25df3976d4eff2474be.jpg"
+                                    <img src="img/product/AMCS.jpg"
                                     class="w-100" />
                                 </div>
                                 <div class="card-body">
@@ -65,7 +65,7 @@
                                 <div class="card zoom shadow" style="height:25rem">
                                 <div class="bg-image ripple ripple-surface ripple-surface-light"
                                     data-mdb-ripple-color="light">
-                                    <img src="https://i.pinimg.com/564x/ea/bb/73/eabb734550b274570251f090b9b1b24c.jpg"
+                                    <img src="img/product/SPM.jpg"
                                     class="w-100" />
                                 </div>
                                 <div class="card-body">
@@ -81,7 +81,7 @@
                                 <div class="card zoom shadow" style="height:25rem">
                                     <div class="bg-image ripple ripple-surface ripple-surface-light"
                                     data-mdb-ripple-color="light">
-                                        <img src="https://i.pinimg.com/564x/05/79/c3/0579c3fa9846a22b7322118143e8698f.jpg"
+                                        <img src="img/product/genba.jpg"
                                         class="w-100" />
                                     </div>
                                     <div class="card-body">
@@ -95,7 +95,7 @@
                                 <div class="card zoom shadow" style="height:25rem">
                                 <div class="bg-image ripple ripple-surface ripple-surface-light"
                                     data-mdb-ripple-color="light">
-                                    <img src="https://i.pinimg.com/564x/a8/45/10/a84510007668bf1478461a28156d18b0.jpg"
+                                    <img src="img/product/tshoot.jpg"
                                     class="w-100" />
                                 </div>
                                 <div class="card-body">
@@ -108,7 +108,7 @@
                                 <div class="card zoom shadow" style="height:25rem">
                                 <div class="bg-image ripple ripple-surface ripple-surface-light"
                                     data-mdb-ripple-color="light">
-                                    <img src="https://i.pinimg.com/736x/bc/43/59/bc43596d705ebb8ba5470c87d25180de.jpg"
+                                    <img src="img/product/manpower.jpg"
                                     class="w-100" />
                                 </div>
                                 <div class="card-body">

@@ -39,7 +39,7 @@
                           <div class="card shadow zoom" style="height:34rem">
                             <div class="bg-image ripple ripple-surface ripple-surface-light"
                               data-mdb-ripple-color="light">
-                              <img src="https://tse2.mm.bing.net/th?id=OIP.0Ix-7SC_hAeqbQKXvgKXMQHaEH&pid=Api&P=0&h=180"
+                              <img src="img/product/colRobot.jpeg"
                                 class="w-100" />
                             </div>
                             <div class="card-body">
@@ -53,7 +53,7 @@
                           <div class="card shadow zoom" style="height:34rem">
                             <div class="bg-image ripple ripple-surface ripple-surface-light"
                               data-mdb-ripple-color="light">
-                              <img src="https://i.ytimg.com/vi/GcqtMTlzfU4/maxresdefault.jpg"
+                              <img src="img/product/delRobot.jpg"
                                 class="w-100" />
                             </div>
                             <div class="card-body">
@@ -67,7 +67,7 @@
                             <div class="card shadow zoom" style="height:34rem">
                               <div class="bg-image ripple ripple-surface ripple-surface-light"
                                 data-mdb-ripple-color="light">
-                                <img src="https://tse4.mm.bing.net/th?id=OIP.-6i0a1qvFlGkAQtNOa76tAHaE8&pid=Api&P=0&h=180"
+                                <img src="img/product/armRobot.jpeg"
                                   class="w-100" />
                               </div>
                               <div class="card-body">
@@ -86,7 +86,7 @@
                             <div class="card shadow zoom">
                               <div class="bg-image ripple ripple-surface ripple-surface-light"
                                 data-mdb-ripple-color="light">
-                                <img src="https://tse4.mm.bing.net/th?id=OIP.Q-pthUb1g7n-27_tgGNbkgAAAA&pid=Api&P=0&h=180"
+                                <img src="img/product/scara.jpeg"
                                   class="w-100" />
                               </div>
                               <div class="card-body">

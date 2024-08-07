@@ -37,10 +37,10 @@
 
                             <div class="col-lg-4 col-md-12 mb-4">
                                 <a class="link-unstyled" href="http://satsindoeducenter.com/">
-                                    <div class="card zoom shadow" style="height:25rem">
+                                    <div class="card zoom shadow" style="height:22rem">
                                         <div class="bg-image ripple ripple-surface ripple-surface-light"
                                         data-mdb-ripple-color="light">
-                                        <img src="https://i.pinimg.com/564x/38/4a/d9/384ad92dd9e11a2bef83e9389d37fcae.jpg"
+                                        <img src="img/product/robotic.jpg"
                                             class="w-100" />
                                         </div>
                                         <div class="card-body">
@@ -52,10 +52,10 @@
 
                             <div class="col-lg-4 col-md-12 mb-4">
                                 <a class="link-unstyled" href="http://satsindoeducenter.com/">
-                                    <div class="card zoom shadow"  style="height:25rem">
+                                    <div class="card zoom shadow"  style="height:22rem">
                                     <div class="bg-image ripple ripple-surface ripple-surface-light"
                                         data-mdb-ripple-color="light">
-                                        <img src="https://i.pinimg.com/564x/60/84/1f/60841f657576f2bb9e9429a9d30e07ee.jpg"
+                                        <img src="img/product/plc.jpg"
                                         class="w-100" />
                                     </div>
                                     <div class="card-body">
@@ -67,10 +67,10 @@
 
                             <div class="col-lg-4 col-md-12 mb-4">
                                 <a class="link-unstyled" href="http://satsindoeducenter.com/">
-                                    <div class="card zoom shadow"  style="height:25rem">
+                                    <div class="card zoom shadow"  style="height:22rem">
                                     <div class="bg-image ripple ripple-surface ripple-surface-light"
                                         data-mdb-ripple-color="light">
-                                        <img src="https://i.pinimg.com/564x/a9/22/ae/a922ae9dd091d8d12680a963854d8226.jpg"
+                                        <img src="img/product/maintenance.jpg"
                                         class="w-100" />
                                     </div>
                                     <div class="card-body">
@@ -86,10 +86,10 @@
 
                             <div class="col-lg-4 col-md-12 mb-4">
                                 <a class="link-unstyled" href="http://satsindoeducenter.com/">
-                                    <div class="card zoom shadow" style="height:25rem">
+                                    <div class="card zoom shadow" style="height:22rem">
                                         <div class="bg-image ripple ripple-surface ripple-surface-light"
                                         data-mdb-ripple-color="light">
-                                        <img src="https://i.pinimg.com/564x/18/ff/f9/18fff9e9160603714212334df9b59577.jpg"
+                                        <img src="img/product/lean.jpg"
                                             class="w-100" />
                                         </div>
                                         <div class="card-body">
@@ -101,10 +101,10 @@
 
                             <div class="col-lg-4 col-md-12 mb-4">
                                 <a class="link-unstyled" href="http://satsindoeducenter.com/">
-                                    <div class="card zoom shadow" style="height:25rem">
+                                    <div class="card zoom shadow" style="height:22rem">
                                         <div class="bg-image ripple ripple-surface ripple-surface-light"
                                         data-mdb-ripple-color="light">
-                                        <img src="https://i.pinimg.com/564x/d0/8f/cc/d08fccc3f06f4afa79bb84db911b2af7.jpg"
+                                        <img src="img/product/sdc.jpg"
                                             class="w-100" />
                                         </div>
                                         <div class="card-body">
