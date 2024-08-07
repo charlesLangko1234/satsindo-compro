@@ -144,50 +144,37 @@
                 
                 <div class="col-3 m-auto">
                   <div class="client-logo">
-                    <img src="img/logo/circutor.jpeg"class="img-fluid" alt="">
+                    <img src="img/logo/aveva.png"class="img-fluid" alt="">
                   </div>
                 </div>
               
                 <div class="col-3 m-auto">
                   <div class="client-logo">
-                    <img src="img/logo/wulian.jpeg" class="img-fluid" alt="">
+                    <img src="img/logo/icpdas.png" class="img-fluid" alt="">
                   </div>
                 </div>
                 
                 <div class="col-3 m-auto">
                   <div class="client-logo">
-                    <img src="img/logo/engenius.jpeg" class="img-fluid" alt="">
+                    <img src="img/logo/teltonika.png" class="img-fluid" alt="">
                   </div>
                 </div>
                 
                 <div class="col-3 m-auto">
                   <div class="client-logo">
-                    <img src="img/logo/AveryDennison.jpeg" class="img-fluid" alt="">
+                    <img src="img/logo/wintec.jpeg" class="img-fluid" alt="">
                   </div>
                 </div>
                 
                 <div class="col-3 m-auto">
                   <div class="client-logo">
-                    <img src="img/logo/schneiderelectric.jpeg"class="img-fluid" alt="">
+                    <img src="img/logo/fatek.png"class="img-fluid" alt="">
                   </div>
                 </div>
                 
                 <div class="col-3 m-auto">
                   <div class="client-logo">
-                    <img src="img/logo/Siemens.jpeg"class="img-fluid" alt="">
-                  </div>
-                </div>
-                
-                
-                <div class="col-3 m-auto">
-                  <div class="client-logo">
-                    <img src="img/logo/invensys.jpeg" class="img-fluid" alt="">
-                  </div>
-                </div>
-      
-                <div class="col-3 m-auto">
-                  <div class="client-logo">
-                    <img src="img/logo/MitsubishiElectric.jpeg" class="img-fluid" alt="">
+                    <img src="img/logo/idec.png"class="img-fluid" alt="">
                   </div>
                 </div>
                 
@@ -205,36 +192,10 @@
                 
                 <div class="col-3 m-auto">
                   <div class="client-logo">
-                    <img src="img/logo/wonderware.jpeg" class="img-fluid" alt="">
+                    <img src="img/logo/pep.png" class="img-fluid" alt="">
                   </div>
                 </div>
                         
-                <div class="col-3 m-auto">
-                  <div class="client-logo">
-                    <img src="img/logo/Festo.jpeg" class="img-fluid" alt="">
-                  </div>
-                </div>
-                
-                
-                <div class="col-3 m-auto">
-                  <div class="client-logo">
-                    <img src="img/logo/Panasonic.jpeg" class="img-fluid" alt="">
-                  </div>
-                </div>
-                
-                <div class="col-3 m-auto">
-                  <div class="client-logo">
-                    <img src="img/logo/omron.jpeg" class="img-fluid" alt="">
-                  </div>
-                </div>
-                
-                <div class="col-3 m-auto">
-                  <div class="client-logo">
-                    <img src="img/logo/AllenBradley.jpeg" class="img-fluid" alt="">
-                  </div>
-                </div>
-      
-      
               </div>
       
             </div>
