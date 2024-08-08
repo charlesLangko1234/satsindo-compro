@@ -37,7 +37,7 @@
 
                             <div class="col-lg-4 col-md-12 mb-4">
                                 <a class="link-unstyled" href="http://satsindoeducenter.com/">
-                                    <div class="card zoom shadow" style="height:22rem">
+                                    <div class="card zoom shadow" style="height:19rem">
                                         <div class="bg-image ripple ripple-surface ripple-surface-light"
                                         data-mdb-ripple-color="light">
                                         <img src="img/product/robotic.jpg"
@@ -52,7 +52,7 @@
 
                             <div class="col-lg-4 col-md-12 mb-4">
                                 <a class="link-unstyled" href="http://satsindoeducenter.com/">
-                                    <div class="card zoom shadow"  style="height:22rem">
+                                    <div class="card zoom shadow"  style="height:19rem">
                                     <div class="bg-image ripple ripple-surface ripple-surface-light"
                                         data-mdb-ripple-color="light">
                                         <img src="img/product/plc.jpg"
@@ -67,7 +67,7 @@
 
                             <div class="col-lg-4 col-md-12 mb-4">
                                 <a class="link-unstyled" href="http://satsindoeducenter.com/">
-                                    <div class="card zoom shadow"  style="height:22rem">
+                                    <div class="card zoom shadow"  style="height:19rem">
                                     <div class="bg-image ripple ripple-surface ripple-surface-light"
                                         data-mdb-ripple-color="light">
                                         <img src="img/product/maintenance.jpg"
@@ -86,7 +86,7 @@
 
                             <div class="col-lg-4 col-md-12 mb-4">
                                 <a class="link-unstyled" href="http://satsindoeducenter.com/">
-                                    <div class="card zoom shadow" style="height:22rem">
+                                    <div class="card zoom shadow" style="height:19rem">
                                         <div class="bg-image ripple ripple-surface ripple-surface-light"
                                         data-mdb-ripple-color="light">
                                         <img src="img/product/lean.jpg"
@@ -101,7 +101,7 @@
 
                             <div class="col-lg-4 col-md-12 mb-4">
                                 <a class="link-unstyled" href="http://satsindoeducenter.com/">
-                                    <div class="card zoom shadow" style="height:22rem">
+                                    <div class="card zoom shadow" style="height:19rem">
                                         <div class="bg-image ripple ripple-surface ripple-surface-light"
                                         data-mdb-ripple-color="light">
                                         <img src="img/product/sdc.jpg"

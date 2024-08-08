@@ -36,7 +36,7 @@
                         <div class="row d-flex justify-content-center">
 
                             <div class="col-lg-4 col-md-12 mb-4">
-                            <div class="card zoom shadow" style="height:25rem">
+                            <div class="card zoom shadow" style="height:20rem">
                                 <div class="bg-image ripple ripple-surface ripple-surface-light"
                                 data-mdb-ripple-color="light">
                                 <img src="img/product/TPM.jpg"
@@ -49,7 +49,7 @@
                             </div>
 
                             <div class="col-lg-4 col-md-12 mb-4">
-                                <div class="card zoom shadow" style="height:25rem">
+                                <div class="card zoom shadow" style="height:20rem">
                                 <div class="bg-image ripple ripple-surface ripple-surface-light"
                                     data-mdb-ripple-color="light">
                                     <img src="img/product/AMCS.jpg"
@@ -62,7 +62,7 @@
                             </div>
 
                             <div class="col-lg-4 col-md-12 mb-4">
-                                <div class="card zoom shadow" style="height:25rem">
+                                <div class="card zoom shadow" style="height:20rem">
                                 <div class="bg-image ripple ripple-surface ripple-surface-light"
                                     data-mdb-ripple-color="light">
                                     <img src="img/product/SPM.jpg"
@@ -78,7 +78,7 @@
                         <div class="row d-flex justify-content-center">
 
                             <div class="col-lg-4 col-md-12 mb-4">
-                                <div class="card zoom shadow" style="height:25rem">
+                                <div class="card zoom shadow" style="height:20rem">
                                     <div class="bg-image ripple ripple-surface ripple-surface-light"
                                     data-mdb-ripple-color="light">
                                         <img src="img/product/genba.jpg"
@@ -92,7 +92,7 @@
                             </div>
 
                             <div class="col-lg-4 col-md-12 mb-4">
-                                <div class="card zoom shadow" style="height:25rem">
+                                <div class="card zoom shadow" style="height:20rem">
                                 <div class="bg-image ripple ripple-surface ripple-surface-light"
                                     data-mdb-ripple-color="light">
                                     <img src="img/product/tshoot.jpg"
@@ -105,7 +105,7 @@
                             </div>
 
                             <div class="col-lg-4 col-md-12 mb-4">
-                                <div class="card zoom shadow" style="height:25rem">
+                                <div class="card zoom shadow" style="height:20rem">
                                 <div class="bg-image ripple ripple-surface ripple-surface-light"
                                     data-mdb-ripple-color="light">
                                     <img src="img/product/manpower.jpg"
