@@ -62,6 +62,7 @@
 
         <!-- Contact Form Block -->
         <div class="col-xl-6">
+
             <form action="/contact" method="POST">
               @csrf
               <h2 class="pb-4">Leave a message</h2>

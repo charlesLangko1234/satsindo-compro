@@ -206,7 +206,7 @@
     {{-- Our Partner --}}
 
 
-    <div class="row d-flex mb-5">
+    <div class="row d-flex mb-5" id="contactUSViaEmail">
       @include('partials.contact')
     </div>
 

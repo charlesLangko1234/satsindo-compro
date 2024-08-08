@@ -1,6 +1,23 @@
 <link rel="stylesheet" href="css/navbar.css">
 
+<style>
+  .fade-out {
+      opacity: 1;
+      transition: opacity 1s ease-out; /* Smooth transition over 1 second */
+  }
+  .fade-out.hide {
+      opacity: 0;
+  }
+</style>
+
 {{-- START NAVBAR --}}
+@if(session('success'))
+  <div class="alert alert-success alert-dismissible fade show fade-out" id="success-alert" role="alert">
+    <strong>{{ session('success') }}</strong> 
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+  </div>
+@endif
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
         <a class="navbar-brand" href="/">
@@ -69,3 +86,20 @@
     </div>
 </nav>
 {{-- END NAVBAR --}}
+
+
+<script>
+  // Check if the alert exists on the page
+  document.addEventListener('DOMContentLoaded', function() {
+            var alert = document.getElementById('success-alert');
+            if (alert) {
+                // Set a timeout to start fading out the alert after 3 seconds (3000 milliseconds)
+                setTimeout(function() {
+                    alert.classList.add('hide'); // Add hide class to start fade-out
+                    setTimeout(function() {
+                        alert.remove(); // Remove the alert element after fade-out
+                    }, 1000); // Time matches the CSS transition duration
+                }, 3000);
+            }
+        });
+</script>
