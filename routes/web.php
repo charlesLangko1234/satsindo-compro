@@ -2,7 +2,9 @@
 
 use App\Http\Controllers\Contact;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AuthController;
 use App\Http\Controllers\LoginController;
+use Illuminate\Support\Facades\Session;
 
 // Halaman Home
 Route::get('/', function () {
@@ -80,11 +82,19 @@ Route::get('/company', function () {
 
 
 // Halaman Portofolio
-Route::get('/portofolio', function () {
-    return view('portofolio', [
-        'title' => 'Portofolio',
+Route::get('/login', function () {
+    return view('login', [
+        'title' => 'Login'
     ]);
-});
-// Halaman Portofolio
+})->name('login');
+
+
+Route::post('/login', [AuthController::class, 'login']);
+
+// Start demo
+Route::get('/ourDemo', [AuthController::class, 'showDemoPage'])->name('ourDemo');
+
+Route::post('/logout', [AuthController::class, 'logout'])->name('logout');
+// End demo
 
 Route::post('/contact', [Contact::class, 'email']);

@@ -73,15 +73,18 @@
 
         </ul>
         
-        {{-- <div class="d-flex" id="contact">
-          <ul class="navbar-nav"  id="contact">
-              <li class="nav-item me-3">
-                  <a class="nav-link link-primary" href="#" style="border: 1px solid black; border-radius: 5px;">
-                    Contact Us
-                  </a>
-              </li>
-            </ul>
-        </div> --}}
+        @if($title === 'Company')
+            <div class="d-flex" id="contact">
+                <ul class="navbar-nav" id="contact">
+                    <li class="nav-item me-3">
+                        <a class="btn btn-primary nav-link link-primary text-white px-3" href="/login" style="border-radius: 5px;">
+                            Login
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        @endif
+
       </div>
     </div>
 </nav>
