@@ -7,10 +7,18 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/home.css">
+    <script src="js/home.js"></script>
 
     <style>
         ::-webkit-scrollbar {
             width: 0px;
+        }
+
+        .russo-one-regular {
+            font-family: "Russo One", sans-serif;
+            font-weight: 500;
+            font-style: normal;
         }
     </style>
 
@@ -36,8 +44,8 @@
             <div class="p-5 text-center bg-image rounded-3" style="background-image: url('img/HomeHero.jpg'); height: 400px;">
                 <div class="d-flex justify-content-start align-items-center h-100">
                     <div class="text-white text-start" id="fontRusso">
-                        <h1 class="mb-3 fs-1" id="heroTitle">PT Satya Solusindo Indonesia</h1>
-                        <h4 class="mb-3" id="heroDesc">Engineering, Procurement & Construction - Your Industial Automation Solution | Education Center</h4>
+                        <h1 class="mb-3 fs-1 russo-one-regular" id="heroTitle"><strong>PT Satya Solusindo Indonesia</strong></h1>
+                        <h4 class="mb-3 russo-one-regular" id="heroDesc"><strong>List of Demo Project</strong></h4>
                     </div>
                 </div>
             </div>
