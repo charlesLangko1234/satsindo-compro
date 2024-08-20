@@ -82,6 +82,13 @@ Route::get('/company', function () {
 
 
 // Halaman Portofolio
+Route::get('/portofolio', function () {
+    return view('portofolio', [
+        'title' => 'Portofolio'
+    ]);
+});
+// Halaman Portofolio
+
 Route::get('/login', function () {
     return view('login', [
         'title' => 'Login'
